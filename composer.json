@@ -1,0 +1,21 @@
+{
+  "name": "mawo/csv-toolset",
+  "description": "Handling of CSV data and files.",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Manuel Wohlers",
+      "email": "code@skanto.de",
+      "homepage": "https://skanto.de",
+      "role": "Developer"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Mawo\\CSVToolset\\": "src/"
+    }
+  },
+  "require": {
+  }
+}
